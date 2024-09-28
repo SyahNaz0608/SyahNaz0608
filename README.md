@@ -1,8 +1,5 @@
 # Hey there Tech Enthusiast!👋
-My name is Muhamad Syah Gilbartar, people call me Syah. I'm a highschool student from [SMA Plus PGRI Cibinong](https://smapluspgri.sch.id/). Always open to collaborating on projects and Innovative ideas. feel free to connect with me here:
-
-![Static Badge](https://img.shields.io/badge/pesyahtyr.co.id-%23E4405F?style=flat-square&logo=instagram&logoColor=%23E4405F&labelColor=black)
-![Static Badge](https://img.shields.io/badge/muhamadsyahgilbartar%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=%23EA4335&labelColor=pink)
+My name is Muhamad Syah Gilbartar, people call me Syah. I'm a highschool student from [SMA Plus PGRI Cibinong](https://smapluspgri.sch.id/). Always open to collaborating on projects and Innovative ideas.
 
 ## ⚡ The Technologys i've used
 
