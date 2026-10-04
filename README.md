@@ -1,5 +1,5 @@
 # Hey there Tech Enthusiast!👋
-My name is Muhamad Syah Gilbartar, people call me Syah. I'm a highschool student from [SMA Plus PGRI Cibinong](https://smapluspgri.sch.id/). Always open to collaborating on projects and Innovative ideas.
+My name is Muhamad Syah Gilbartar, people call me Syah. I'm a college student at [State Polytechnic Of Jakarta](https://www.pnj.ac.id/). Always open to collaborating on projects and Innovative ideas.
 
 ## ⚡ The Technologys i've used
 
